@@ -7,7 +7,9 @@
 
 ## Data Viz Summary
 
-[![Data Visualisation - growth in digital form](https://cdn.arstechnica.net/wp-content/uploads/2015/04/imrs.php_-640x668.jpeg)]
+![Data Visualisation - growth in digital form](https://cdn.arstechnica.net/wp-content/uploads/2015/04/imrs.php_-640x668.jpeg)
+
+
 There has been an exponential growth in our ability to collect and record information in the digital form. This has been a defining characteristic of this age. In this era of the digital age, exponential growth has been facilitated by advancements in technology especially because there has been an improvement in storage capacity, data transmission and the speed at which it has been transmitted. The improvement in computing capacity has been an important factor as well. Take for example, the 2019 Apple iPhone XR which had an impressive processing capability which exceeded 140 million instructions per second which is much more powerful than the capacity of a standard IBM System/360 from previous years.
 
 > We’ve witnessed an equally exponential growth in our ability to collect
