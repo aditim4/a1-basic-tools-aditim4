@@ -7,8 +7,7 @@
 
 ## Data Viz Summary
 
-![Data Visualization](/Users/aditimanjunath/Desktop/Screenshot\ 2024-04-07\ at\ 6.05.32 AM.png)
-
+[![Data Visualisation - growth in digital form](/Users/aditimanjunath/Downloads/Screenshot\ 2024-04-07\ at\ 6.13.18 AM.png)]
 There has been an exponential growth in our ability to collect and record information in the digital form. This has been a defining characteristic of this age. In this era of the digital age, exponential growth has been facilitated by advancements in technology especially because there has been an improvement in storage capacity, data transmission and the speed at which it has been transmitted. The improvement in computing capacity has been an important factor as well. Take for example, the 2019 Apple iPhone XR which had an impressive processing capability which exceeded 140 million instructions per second which is much more powerful than the capacity of a standard IBM System/360 from previous years.
 
 > We’ve witnessed an equally exponential growth in our ability to collect
@@ -38,4 +37,5 @@ A: The visualization can be interpreted as the exponential growth of semiconduct
 A: The visualization represents the exponential growth of semiconductor technology and could be interpreted as one of the causes that there's been an exponential growth in data collection over the years.
 
 EMOJI: :grinning:
+
 [AMAZON!](https://www.amazon.com/)
