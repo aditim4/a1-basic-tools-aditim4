@@ -1,5 +1,5 @@
 # a0: Basic Tools
-
+testing
 ### Preparation
 1. Please read: D'lgnazio & Klein (2020), the Introduction.
 1. Please read: Freeman & Ross (2019), chapters 1-4.
@@ -52,3 +52,4 @@ In Part II, you will create a report in Markdown about a data visualization feat
 * **D'lgnazio & Klein (2020)** Refers to the course textbook, written by Catherine D'lgnazio and Lauren F. Klein, Data Feminism, 2020. The book is available [online at MIT Press](https://data-feminism.mitpress.mit.edu/)
 
 
+# a1-basic-tools-aditim4
